@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Crypt</string>
+    <string name="insert_plain_text">Plain Text</string>
+    <string name="insert_cipher_text">Cipher Text</string>
+    <string name="insert_plain_text_here">Insert your plain text</string>
+    <string name="insert_cipher_text_here">Insert your cipher text</string>
+    <string name="choose_mode">Choose mode</string>
+    <string name="choose_code">Choose code</string>
+    <string name="insert_key">Key Text</string>
+    <string name="insert_key_text">Insert key text</string>
+    <string name="generate">Generate</string>
+    <string name="plain_empty">Plain text is empty!</string>
+    <string name="key_empty">Key text is empty!</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="result">Result</string>
+    <string name="result_display">Result will be displayed here</string>
+    <string name="encrypt_mode">You are on encrypt mode!</string>
+    <string name="decrypt_mode">You are on decrypt mode!</string>
+    <string name="aes">AES</string>
+    <string name="des">DES</string>
+    <string name="credits">Crypt 2019, created by:\n Laras Ijmania - M Rizky W. \nall rights reserved (if there\'s any)</string>
+</resources>
